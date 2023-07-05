@@ -1,0 +1,29 @@
+/* Custom styles for your LuminEye chatbot */
+.bot-container {
+  background-color: #1f5c89;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.bot-message {
+  background-color: #e8643c;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+}
+
+.user-message {
+  background-color: white;
+  color: #1f5c89;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+}
+
+/* Add more custom styles as needed */
